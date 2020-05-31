@@ -7,7 +7,7 @@ class mainScene extends Phaser.Scene {
     this.load.image('ab', 'assets/images/ab.jpg');
     this.load.image('man', 'assets/images/sneeze.png');
     this.load.image('alien', 'assets/images/alien.png');
-    this.load.image('bullet', 'assets/images/bullet .png');
+    this.load.image('bullet', 'assets/images/bullet.png');
     this.load.spritesheet('bomb',
       'assets/images/exp.png',
       { frameWidth: 256, frameHeight: 256 }
